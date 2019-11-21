@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FINE GIBDD", "FINE GIBDD\FINE GIBDD.csproj", "{56DB5322-0654-42BD-94A9-32708B28EF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56DB5322-0654-42BD-94A9-32708B28EF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56DB5322-0654-42BD-94A9-32708B28EF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56DB5322-0654-42BD-94A9-32708B28EF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56DB5322-0654-42BD-94A9-32708B28EF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC66AA5C-A877-4375-B2AD-5F112A679152}
+	EndGlobalSection
+EndGlobal

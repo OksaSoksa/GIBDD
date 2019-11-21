@@ -1,0 +1,17 @@
+D:\KurSoVaYa\GIBDD\FINE GIBDD\bin\Debug\FINE GIBDD.exe.config
+D:\KurSoVaYa\GIBDD\FINE GIBDD\bin\Debug\FINE GIBDD.exe
+D:\KurSoVaYa\GIBDD\FINE GIBDD\bin\Debug\FINE GIBDD.pdb
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE GIBDD.csprojAssemblyReference.cache
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\MainWindow.g.cs
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\App.g.cs
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE GIBDD_MarkupCompile.cache
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE GIBDD_MarkupCompile.lref
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\App.baml
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\MainWindow.baml
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE GIBDD.g.resources
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE_GIBDD.Properties.Resources.resources
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE GIBDD.csproj.GenerateResource.cache
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE GIBDD.exe
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\FINE GIBDD.pdb
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\Auth.g.cs
+D:\KurSoVaYa\GIBDD\FINE GIBDD\obj\Debug\Auth.baml
